@@ -35,7 +35,7 @@ function Anomaly_Run( $plugin_id ) {
 
 	print "<h3>Anomaly to reputation::api</h3>\n";
 	print "For more information about this plugin and how it works go to 
-		<a href='https://github.com/mdjunior/anomalia'>https://github.com/mdjunior/anomalia<a>\n<br><br>";
+		<a href='https://github.com/mdjunior/anomalia-reputation-api'>https://github.com/mdjunior/anomalia-reputation-api<a>\n<br><br>";
 
 	// prepare arguments
 	$opts = array();
