@@ -79,4 +79,8 @@ Go to the tab of the plugin, you should see the configuration information, as in
 	Ports File: /data/nfsen/plugins/anomaly_ports.txt
 	Threshold config: 10
 
+Tips
+----
+
+If you want a quick installation nfsen, see [here](https://github.com/mdjunior/vagrant-nfsen) (using Vagrant and Virtulbox)
 
